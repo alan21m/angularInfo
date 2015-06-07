@@ -1,0 +1,805 @@
+{"nodes": [
+    {
+        "username": "E_Briano",
+        "social_net_id": "55641120cdfa6618acdd1952",
+        "last_name": "Briano",
+        "first_name": "Erskine",
+        "label": 0,
+        "avatar": "/media/avatars/B01.png",
+        "id": "55641120cdfa6618acdd19c2"
+    },
+    {
+        "username": "C_Thorin",
+        "social_net_id": "55641120cdfa6618acdd1952",
+        "last_name": "Thorin",
+        "first_name": "Cary",
+        "label": -1,
+        "avatar": "/media/avatars/FB03.png",
+        "id": "55641120cdfa6618acdd19c7"
+    },
+    {
+        "username": "B_Helenka",
+        "social_net_id": "55641120cdfa6618acdd1952",
+        "last_name": "Helenka",
+        "first_name": "Barbi",
+        "label": -1,
+        "avatar": "/media/avatars/I03.png",
+        "id": "55641120cdfa6618acdd19df"
+    },
+    {
+        "username": "C_Reube",
+        "social_net_id": "55641120cdfa6618acdd1952",
+        "last_name": "Reube",
+        "first_name": "Cozmo",
+        "label": -1,
+        "avatar": "/media/avatars/FC01.png",
+        "id": "55641120cdfa6618acdd1a8d"
+    },
+    {
+        "username": "M_Chen",
+        "social_net_id": "55641120cdfa6618acdd1952",
+        "last_name": "Chen",
+        "first_name": "Murvyn",
+        "label": -1,
+        "avatar": "/media/avatars/FE01.png",
+        "id": "55641120cdfa6618acdd1aa1"
+    },
+    {
+        "username": "B_Lezley",
+        "social_net_id": "55641120cdfa6618acdd1952",
+        "last_name": "Lezley",
+        "first_name": "Bartholemy",
+        "label": -1,
+        "avatar": "/media/avatars/FB01.png",
+        "id": "55641120cdfa6618acdd1b5d"
+    },
+    {
+        "username": "P_Alexandrina",
+        "social_net_id": "55641120cdfa6618acdd1952",
+        "last_name": "Alexandrina",
+        "first_name": "Penny",
+        "label": -1,
+        "avatar": "/media/avatars/E05.png",
+        "id": "55641120cdfa6618acdd1ce1"
+    },
+    {
+        "username": "T_Milty",
+        "social_net_id": "55641120cdfa6618acdd1952",
+        "last_name": "Milty",
+        "first_name": "Thacher",
+        "label": -1,
+        "avatar": "/media/avatars/FB01.png",
+        "id": "55641120cdfa6618acdd1d1d"
+    },
+    {
+        "username": "M_Abbott",
+        "social_net_id": "55641120cdfa6618acdd1952",
+        "last_name": "Abbott",
+        "first_name": "Marcos",
+        "label": -1,
+        "avatar": "/media/avatars/C01.png",
+        "id": "55641120cdfa6618acdd1d21"
+    },
+    {
+        "username": "G_Rodolph",
+        "social_net_id": "55641120cdfa6618acdd1952",
+        "last_name": "Rodolph",
+        "first_name": "Giffie",
+        "label": -1,
+        "avatar": "/media/avatars/F05.png",
+        "id": "55641120cdfa6618acdd1d6c"
+    },
+    {
+        "username": "J_Lilly",
+        "social_net_id": "55641120cdfa6618acdd1952",
+        "last_name": "Lilly",
+        "first_name": "Jemmy",
+        "label": -1,
+        "avatar": "/media/avatars/H02.png",
+        "id": "55641120cdfa6618acdd1de5"
+    },
+    {
+        "username": "H_Sanders",
+        "social_net_id": "55641120cdfa6618acdd1952",
+        "last_name": "Sanders",
+        "first_name": "Hank",
+        "label": -1,
+        "avatar": "/media/avatars/M05.png",
+        "id": "55641120cdfa6618acdd1ea7"
+    },
+    {
+        "username": "W_Pace",
+        "social_net_id": "55641120cdfa6618acdd1952",
+        "last_name": "Pace",
+        "first_name": "Weidar",
+        "label": -1,
+        "avatar": "/media/avatars/C02.png",
+        "id": "55641120cdfa6618acdd1eab"
+    },
+    {
+        "username": "A_Eugenie",
+        "social_net_id": "55641120cdfa6618acdd1952",
+        "last_name": "Eugenie",
+        "first_name": "Adel",
+        "label": -1,
+        "avatar": "/media/avatars/G01.png",
+        "id": "55641120cdfa6618acdd1ede"
+    },
+    {
+        "username": "A_Trstram",
+        "social_net_id": "55641120cdfa6618acdd1952",
+        "last_name": "Trstram",
+        "first_name": "Alistair",
+        "label": -1,
+        "avatar": "/media/avatars/A03.png",
+        "id": "55641120cdfa6618acdd1f0c"
+    },
+    {
+        "username": "P_Wilfred",
+        "social_net_id": "55641120cdfa6618acdd1952",
+        "last_name": "Wilfred",
+        "first_name": "Prent",
+        "label": -1,
+        "avatar": "/media/avatars/H05.png",
+        "id": "55641120cdfa6618acdd1f10"
+    },
+    {
+        "username": "W_Paquito",
+        "social_net_id": "55641120cdfa6618acdd1952",
+        "last_name": "Paquito",
+        "first_name": "Wilmar",
+        "label": -1,
+        "avatar": "/media/avatars/FI05.png",
+        "id": "55641120cdfa6618acdd2192"
+    },
+    {
+        "username": "D_Robinet",
+        "social_net_id": "55641120cdfa6618acdd1952",
+        "last_name": "Robinet",
+        "first_name": "Dorie",
+        "label": 0,
+        "avatar": "/media/avatars/FD04.png",
+        "id": "55641120cdfa6618acdd21d8"
+    },
+    {
+        "username": "J_Kellia",
+        "social_net_id": "55641120cdfa6618acdd1952",
+        "last_name": "Kellia",
+        "first_name": "Jemie",
+        "label": -1,
+        "avatar": "/media/avatars/O02.png",
+        "id": "55641120cdfa6618acdd21d9"
+    },
+    {
+        "username": "D_Stephie",
+        "social_net_id": "55641120cdfa6618acdd1952",
+        "last_name": "Stephie",
+        "first_name": "Dianne",
+        "label": 0,
+        "avatar": "/media/avatars/N01.png",
+        "id": "55641120cdfa6618acdd21db"
+    },
+    {
+        "username": "L_Nadean",
+        "social_net_id": "55641120cdfa6618acdd1952",
+        "last_name": "Nadean",
+        "first_name": "Liv",
+        "label": 0,
+        "avatar": "/media/avatars/FI02.png",
+        "id": "55641120cdfa6618acdd21dd"
+    },
+    {
+        "username": "A_Mae",
+        "social_net_id": "55641120cdfa6618acdd1952",
+        "last_name": "Mae",
+        "first_name": "Alisa",
+        "label": -1,
+        "avatar": "/media/avatars/FA02.png",
+        "id": "55641120cdfa6618acdd21df"
+    },
+    {
+        "username": "S_Wini",
+        "social_net_id": "55641120cdfa6618acdd1952",
+        "last_name": "Wini",
+        "first_name": "Sheela",
+        "label": -1,
+        "avatar": "/media/avatars/FD05.png",
+        "id": "55641120cdfa6618acdd2208"
+    },
+    {
+        "username": "M_Natasha",
+        "social_net_id": "55641120cdfa6618acdd1952",
+        "last_name": "Natasha",
+        "first_name": "Madalyn",
+        "label": -1,
+        "avatar": "/media/avatars/N03.png",
+        "id": "55641121cdfa6618acdd260e"
+    },
+    {
+        "username": "C_Jazmin",
+        "social_net_id": "55641120cdfa6618acdd1952",
+        "last_name": "Jazmin",
+        "first_name": "Clo",
+        "label": 0,
+        "avatar": "/media/avatars/C02.png",
+        "id": "55641121cdfa6618acdd27bc"
+    },
+    {
+        "username": "M_Agnella",
+        "social_net_id": "55641120cdfa6618acdd1952",
+        "last_name": "Agnella",
+        "first_name": "Maude",
+        "label": -1,
+        "avatar": "/media/avatars/FB05.png",
+        "id": "55641121cdfa6618acdd2c25"
+    },
+    {
+        "username": "C_Raina",
+        "social_net_id": "55641120cdfa6618acdd1952",
+        "last_name": "Raina",
+        "first_name": "Charline",
+        "label": -1,
+        "avatar": "/media/avatars/L04.png",
+        "id": "55641121cdfa6618acdd2c26"
+    },
+    {
+        "username": "A_Donnie",
+        "social_net_id": "55641120cdfa6618acdd1952",
+        "last_name": "Donnie",
+        "first_name": "Adam",
+        "label": -1,
+        "avatar": "/media/avatars/FB01.png",
+        "id": "55641121cdfa6618acdd2c28"
+    },
+    {
+        "username": "C_Heddi",
+        "social_net_id": "55641120cdfa6618acdd1952",
+        "last_name": "Heddi",
+        "first_name": "Claire",
+        "label": -1,
+        "avatar": "/media/avatars/B05.png",
+        "id": "55641121cdfa6618acdd2c2a"
+    },
+    {
+        "username": "H_Portie",
+        "social_net_id": "55641120cdfa6618acdd1952",
+        "last_name": "Portie",
+        "first_name": "Hersh",
+        "label": -1,
+        "avatar": "/media/avatars/FD02.png",
+        "id": "55641121cdfa6618acdd3198"
+    },
+    {
+        "username": "H_Ania",
+        "social_net_id": "55641120cdfa6618acdd1952",
+        "last_name": "Ania",
+        "first_name": "Harriette",
+        "label": -1,
+        "avatar": "/media/avatars/D04.png",
+        "id": "55641122cdfa6618acdd36be"
+    },
+    {
+        "username": "V_Lucio",
+        "social_net_id": "55641120cdfa6618acdd1952",
+        "last_name": "Lucio",
+        "first_name": "Vernen",
+        "label": 0,
+        "avatar": "/media/avatars/C01.png",
+        "id": "55641122cdfa6618acdd3fbb"
+    },
+    {
+        "username": "X_Hayden",
+        "social_net_id": "55641120cdfa6618acdd1952",
+        "last_name": "Hayden",
+        "first_name": "Ximenez",
+        "label": -1,
+        "avatar": "/media/avatars/FC02.png",
+        "id": "55641122cdfa6618acdd3fbd"
+    },
+    {
+        "username": "D_Heall",
+        "social_net_id": "55641120cdfa6618acdd1952",
+        "last_name": "Heall",
+        "first_name": "Davis",
+        "label": 0,
+        "avatar": "/media/avatars/D05.png",
+        "id": "55641122cdfa6618acdd3ffe"
+    },
+    {
+        "username": "S_Stormie",
+        "social_net_id": "55641120cdfa6618acdd1952",
+        "last_name": "Stormie",
+        "first_name": "Selma",
+        "label": 0,
+        "avatar": "/media/avatars/O01.png",
+        "id": "55641123cdfa6618acdd471d"
+    },
+    {
+        "username": "M_Garth",
+        "social_net_id": "55641120cdfa6618acdd1952",
+        "last_name": "Garth",
+        "first_name": "Mack",
+        "label": 0,
+        "avatar": "/media/avatars/I02.png",
+        "id": "55641123cdfa6618acdd4721"
+    },
+    {
+        "username": "E_Ade",
+        "social_net_id": "55641120cdfa6618acdd1952",
+        "last_name": "Ade",
+        "first_name": "Eberto",
+        "label": -1,
+        "avatar": "/media/avatars/FB02.png",
+        "id": "55641123cdfa6618acdd4edc"
+    },
+    {
+        "username": "M_Ferris",
+        "social_net_id": "55641120cdfa6618acdd1952",
+        "last_name": "Ferris",
+        "first_name": "Mohandis",
+        "label": -1,
+        "avatar": "/media/avatars/G01.png",
+        "id": "55641126cdfa6618acdd7c14"
+    }
+], "edges": [
+    {
+        "source": "55641120cdfa6618acdd19c2",
+        "target": "55641120cdfa6618acdd19c7",
+        "weight": 0.0
+    },
+    {
+        "source": "55641120cdfa6618acdd1a8d",
+        "target": "55641120cdfa6618acdd1aa1",
+        "weight": 1.5
+    },
+    {
+        "source": "55641120cdfa6618acdd1ea7",
+        "target": "55641120cdfa6618acdd1eab",
+        "weight": 1.5
+    },
+    {
+        "source": "55641120cdfa6618acdd19c7",
+        "target": "55641120cdfa6618acdd19c2",
+        "weight": 0.0
+    },
+    {
+        "source": "55641120cdfa6618acdd19c7",
+        "target": "55641120cdfa6618acdd1ede",
+        "weight": 0.0
+    },
+    {
+        "source": "55641120cdfa6618acdd19c7",
+        "target": "55641120cdfa6618acdd1f0c",
+        "weight": 0.0
+    },
+    {
+        "source": "55641120cdfa6618acdd19c7",
+        "target": "55641120cdfa6618acdd1f10",
+        "weight": 0.0
+    },
+    {
+        "source": "55641120cdfa6618acdd1ede",
+        "target": "55641120cdfa6618acdd19c7",
+        "weight": 0.0
+    },
+    {
+        "source": "55641120cdfa6618acdd1de5",
+        "target": "55641120cdfa6618acdd1d6c",
+        "weight": 0.0
+    },
+    {
+        "source": "55641120cdfa6618acdd1de5",
+        "target": "55641120cdfa6618acdd1aa1",
+        "weight": 0.0
+    },
+    {
+        "source": "55641120cdfa6618acdd2192",
+        "target": "55641120cdfa6618acdd1aa1",
+        "weight": 0.0
+    },
+    {
+        "source": "55641120cdfa6618acdd21d8",
+        "target": "55641120cdfa6618acdd21d9",
+        "weight": 13.5
+    },
+    {
+        "source": "55641120cdfa6618acdd21d8",
+        "target": "55641120cdfa6618acdd21db",
+        "weight": 1.5
+    },
+    {
+        "source": "55641120cdfa6618acdd21d8",
+        "target": "55641120cdfa6618acdd21dd",
+        "weight": 0.0
+    },
+    {
+        "source": "55641120cdfa6618acdd21d8",
+        "target": "55641120cdfa6618acdd21df",
+        "weight": 15.0
+    },
+    {
+        "source": "55641120cdfa6618acdd1ce1",
+        "target": "55641120cdfa6618acdd21df",
+        "weight": 0.0
+    },
+    {
+        "source": "55641121cdfa6618acdd27bc",
+        "target": "55641120cdfa6618acdd21df",
+        "weight": 0.0
+    },
+    {
+        "source": "55641121cdfa6618acdd2c25",
+        "target": "55641121cdfa6618acdd2c26",
+        "weight": 0.0
+    },
+    {
+        "source": "55641121cdfa6618acdd2c25",
+        "target": "55641121cdfa6618acdd2c28",
+        "weight": 0.0
+    },
+    {
+        "source": "55641121cdfa6618acdd2c25",
+        "target": "55641121cdfa6618acdd2c2a",
+        "weight": 0.0
+    },
+    {
+        "source": "55641121cdfa6618acdd2c25",
+        "target": "55641120cdfa6618acdd1d21",
+        "weight": 0.0
+    },
+    {
+        "source": "55641120cdfa6618acdd1eab",
+        "target": "55641120cdfa6618acdd1ea7",
+        "weight": 1.5
+    },
+    {
+        "source": "55641120cdfa6618acdd1eab",
+        "target": "55641120cdfa6618acdd1f0c",
+        "weight": 3.0
+    },
+    {
+        "source": "55641120cdfa6618acdd1eab",
+        "target": "55641121cdfa6618acdd3198",
+        "weight": 1.5
+    },
+    {
+        "source": "55641120cdfa6618acdd19df",
+        "target": "55641121cdfa6618acdd2c28",
+        "weight": 0.0
+    },
+    {
+        "source": "55641120cdfa6618acdd1d1d",
+        "target": "55641121cdfa6618acdd2c28",
+        "weight": 0.0
+    },
+    {
+        "source": "55641120cdfa6618acdd1d1d",
+        "target": "55641121cdfa6618acdd2c2a",
+        "weight": 0.0
+    },
+    {
+        "source": "55641120cdfa6618acdd1d1d",
+        "target": "55641120cdfa6618acdd1d21",
+        "weight": 0.0
+    },
+    {
+        "source": "55641121cdfa6618acdd260e",
+        "target": "55641120cdfa6618acdd21dd",
+        "weight": 3.0
+    },
+    {
+        "source": "55641121cdfa6618acdd2c26",
+        "target": "55641121cdfa6618acdd2c25",
+        "weight": 0.0
+    },
+    {
+        "source": "55641121cdfa6618acdd2c26",
+        "target": "55641121cdfa6618acdd2c28",
+        "weight": 0.0
+    },
+    {
+        "source": "55641121cdfa6618acdd2c26",
+        "target": "55641120cdfa6618acdd21d9",
+        "weight": 0.0
+    },
+    {
+        "source": "55641122cdfa6618acdd3fbb",
+        "target": "55641120cdfa6618acdd2208",
+        "weight": 21.0
+    },
+    {
+        "source": "55641122cdfa6618acdd3fbb",
+        "target": "55641122cdfa6618acdd3fbd",
+        "weight": 0.0
+    },
+    {
+        "source": "55641122cdfa6618acdd3fbb",
+        "target": "55641120cdfa6618acdd1d6c",
+        "weight": 0.0
+    },
+    {
+        "source": "55641122cdfa6618acdd3fbb",
+        "target": "55641120cdfa6618acdd1f10",
+        "weight": 0.0
+    },
+    {
+        "source": "55641120cdfa6618acdd2208",
+        "target": "55641122cdfa6618acdd3fbb",
+        "weight": 21.0
+    },
+    {
+        "source": "55641120cdfa6618acdd2208",
+        "target": "55641120cdfa6618acdd1d6c",
+        "weight": 0.0
+    },
+    {
+        "source": "55641120cdfa6618acdd2208",
+        "target": "55641120cdfa6618acdd1f10",
+        "weight": 0.0
+    },
+    {
+        "source": "55641122cdfa6618acdd3fbd",
+        "target": "55641122cdfa6618acdd3fbb",
+        "weight": 0.0
+    },
+    {
+        "source": "55641122cdfa6618acdd3fbd",
+        "target": "55641122cdfa6618acdd3ffe",
+        "weight": 0.0
+    },
+    {
+        "source": "55641122cdfa6618acdd3fbd",
+        "target": "55641120cdfa6618acdd1aa1",
+        "weight": 16.5
+    },
+    {
+        "source": "55641122cdfa6618acdd3fbd",
+        "target": "55641120cdfa6618acdd21d9",
+        "weight": 0.0
+    },
+    {
+        "source": "55641123cdfa6618acdd471d",
+        "target": "55641122cdfa6618acdd36be",
+        "weight": 3.0
+    },
+    {
+        "source": "55641123cdfa6618acdd471d",
+        "target": "55641120cdfa6618acdd1f0c",
+        "weight": 0.0
+    },
+    {
+        "source": "55641123cdfa6618acdd471d",
+        "target": "55641120cdfa6618acdd1b5d",
+        "weight": 0.0
+    },
+    {
+        "source": "55641123cdfa6618acdd471d",
+        "target": "55641123cdfa6618acdd4721",
+        "weight": 0.0
+    },
+    {
+        "source": "55641120cdfa6618acdd1f0c",
+        "target": "55641120cdfa6618acdd19c7",
+        "weight": 0.0
+    },
+    {
+        "source": "55641120cdfa6618acdd1f0c",
+        "target": "55641120cdfa6618acdd1eab",
+        "weight": 3.0
+    },
+    {
+        "source": "55641120cdfa6618acdd1f0c",
+        "target": "55641123cdfa6618acdd471d",
+        "weight": 0.0
+    },
+    {
+        "source": "55641120cdfa6618acdd1f0c",
+        "target": "55641121cdfa6618acdd3198",
+        "weight": 1.5
+    },
+    {
+        "source": "55641120cdfa6618acdd1f0c",
+        "target": "55641120cdfa6618acdd1d21",
+        "weight": 16.5
+    },
+    {
+        "source": "55641120cdfa6618acdd1f0c",
+        "target": "55641120cdfa6618acdd21d9",
+        "weight": 9.0
+    },
+    {
+        "source": "55641121cdfa6618acdd3198",
+        "target": "55641120cdfa6618acdd1eab",
+        "weight": 1.5
+    },
+    {
+        "source": "55641121cdfa6618acdd3198",
+        "target": "55641120cdfa6618acdd1f0c",
+        "weight": 1.5
+    },
+    {
+        "source": "55641121cdfa6618acdd2c28",
+        "target": "55641121cdfa6618acdd2c25",
+        "weight": 0.0
+    },
+    {
+        "source": "55641121cdfa6618acdd2c28",
+        "target": "55641120cdfa6618acdd19df",
+        "weight": 0.0
+    },
+    {
+        "source": "55641121cdfa6618acdd2c28",
+        "target": "55641120cdfa6618acdd1d1d",
+        "weight": 0.0
+    },
+    {
+        "source": "55641121cdfa6618acdd2c28",
+        "target": "55641121cdfa6618acdd2c26",
+        "weight": 0.0
+    },
+    {
+        "source": "55641121cdfa6618acdd2c28",
+        "target": "55641120cdfa6618acdd1d21",
+        "weight": 0.0
+    },
+    {
+        "source": "55641121cdfa6618acdd2c2a",
+        "target": "55641121cdfa6618acdd2c25",
+        "weight": 0.0
+    },
+    {
+        "source": "55641121cdfa6618acdd2c2a",
+        "target": "55641120cdfa6618acdd1d1d",
+        "weight": 0.0
+    },
+    {
+        "source": "55641121cdfa6618acdd2c2a",
+        "target": "55641120cdfa6618acdd1d6c",
+        "weight": 0.0
+    },
+    {
+        "source": "55641120cdfa6618acdd1aa1",
+        "target": "55641120cdfa6618acdd1a8d",
+        "weight": 1.5
+    },
+    {
+        "source": "55641120cdfa6618acdd1aa1",
+        "target": "55641120cdfa6618acdd1de5",
+        "weight": 0.0
+    },
+    {
+        "source": "55641120cdfa6618acdd1aa1",
+        "target": "55641120cdfa6618acdd2192",
+        "weight": 0.0
+    },
+    {
+        "source": "55641120cdfa6618acdd1aa1",
+        "target": "55641122cdfa6618acdd3fbd",
+        "weight": 16.5
+    },
+    {
+        "source": "55641120cdfa6618acdd1aa1",
+        "target": "55641120cdfa6618acdd21d9",
+        "weight": 31.5
+    },
+    {
+        "source": "55641120cdfa6618acdd21d9",
+        "target": "55641120cdfa6618acdd21d8",
+        "weight": 13.5
+    },
+    {
+        "source": "55641120cdfa6618acdd21d9",
+        "target": "55641121cdfa6618acdd2c26",
+        "weight": 0.0
+    },
+    {
+        "source": "55641120cdfa6618acdd21d9",
+        "target": "55641122cdfa6618acdd3fbd",
+        "weight": 0.0
+    },
+    {
+        "source": "55641120cdfa6618acdd21d9",
+        "target": "55641120cdfa6618acdd1f0c",
+        "weight": 9.0
+    },
+    {
+        "source": "55641120cdfa6618acdd21d9",
+        "target": "55641120cdfa6618acdd1d21",
+        "weight": 1.5
+    },
+    {
+        "source": "55641120cdfa6618acdd21d9",
+        "target": "55641120cdfa6618acdd1aa1",
+        "weight": 31.5
+    },
+    {
+        "source": "55641123cdfa6618acdd4edc",
+        "target": "55641120cdfa6618acdd1d21",
+        "weight": 3.0
+    },
+    {
+        "source": "55641123cdfa6618acdd4edc",
+        "target": "55641120cdfa6618acdd21df",
+        "weight": 0.0
+    },
+    {
+        "source": "55641126cdfa6618acdd7c14",
+        "target": "55641120cdfa6618acdd21dd",
+        "weight": 19.5
+    },
+    {
+        "source": "55641120cdfa6618acdd1b5d",
+        "target": "55641122cdfa6618acdd36be",
+        "weight": 27.0
+    },
+    {
+        "source": "55641120cdfa6618acdd1b5d",
+        "target": "55641123cdfa6618acdd471d",
+        "weight": 0.0
+    },
+    {
+        "source": "55641123cdfa6618acdd4721",
+        "target": "55641123cdfa6618acdd471d",
+        "weight": 0.0
+    },
+    {
+        "source": "55641120cdfa6618acdd21db",
+        "target": "55641120cdfa6618acdd21d8",
+        "weight": 1.5
+    },
+    {
+        "source": "55641120cdfa6618acdd21db",
+        "target": "55641120cdfa6618acdd21dd",
+        "weight": 0.0
+    },
+    {
+        "source": "55641120cdfa6618acdd21db",
+        "target": "55641120cdfa6618acdd21df",
+        "weight": 0.0
+    },
+    {
+        "source": "55641120cdfa6618acdd21dd",
+        "target": "55641120cdfa6618acdd21d8",
+        "weight": 0.0
+    },
+    {
+        "source": "55641120cdfa6618acdd21dd",
+        "target": "55641121cdfa6618acdd260e",
+        "weight": 3.0
+    },
+    {
+        "source": "55641120cdfa6618acdd21dd",
+        "target": "55641126cdfa6618acdd7c14",
+        "weight": 19.5
+    },
+    {
+        "source": "55641120cdfa6618acdd21dd",
+        "target": "55641120cdfa6618acdd21db",
+        "weight": 0.0
+    },
+    {
+        "source": "55641120cdfa6618acdd21df",
+        "target": "55641120cdfa6618acdd21d8",
+        "weight": 15.0
+    },
+    {
+        "source": "55641120cdfa6618acdd21df",
+        "target": "55641120cdfa6618acdd1ce1",
+        "weight": 0.0
+    },
+    {
+        "source": "55641120cdfa6618acdd21df",
+        "target": "55641121cdfa6618acdd27bc",
+        "weight": 0.0
+    },
+    {
+        "source": "55641120cdfa6618acdd21df",
+        "target": "55641123cdfa6618acdd4edc",
+        "weight": 0.0
+    },
+    {
+        "source": "55641120cdfa6618acdd21df",
+        "target": "55641120cdfa6618acdd21db",
+        "weight": 0.0
+    }
+]}
